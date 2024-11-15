@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://refpaiozdg.top/L?tag=d_2586175m_62059c_sab10&site=2586175&ad=62059&r=registration"; // Redirect URL
+            window.location.href = "https://refpaiozdg.top/L?tag=d_2586175m_54987c_sab15&site=2586175&ad=54987"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
